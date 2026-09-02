@@ -41,9 +41,9 @@ This was a collaborative team project. My focus was the game's front-end and pla
 
 - **Engine:** Unity
 
-- **Language** C#
+- **Language:** C#
 
-- **Art** Aseprite
+- **Art:** Aseprite
 
 ## Running the Project
 
