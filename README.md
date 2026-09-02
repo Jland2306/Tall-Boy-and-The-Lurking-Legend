@@ -64,9 +64,9 @@ To open the source in the Unity Editor:
 
 ## Team
 
-Jordan Landversicht
+Jordan Landversicht\
 
-Daniel Sible
+Daniel Sible\
 
 Nathaniel Klubek
 
