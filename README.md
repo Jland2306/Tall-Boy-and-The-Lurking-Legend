@@ -6,12 +6,21 @@ A tense horror survival experience where players must navigate the threat of a l
 
 *Created for Scream Jam 2025 — a team project built in Unity.*
 
-> **Fill in —** Add the itch.io / Scream Jam submission link here so people can play it in the browser or download it.
+**[Play on Itch.io ->](https://jland23.itch.io/tall-boy-and-the-lurking-legend)**
 
 ---
 
-> **Fill in —** Add a screenshot or short gameplay GIF here — horror games sell on atmosphere, so a moody in-game shot or a clip of the menu flow makes a strong first impression. Drop the file in a `/screenshots` folder and reference it:
-> `![The Tall Boy and the Lurking Legend](screenshots/gameplay.png)`
+<p align="center">
+  <img src="screenshots/TBLLMenu.jpg" width=400>
+</p>
+
+<p align="center">
+  <img src="screenshots/TBLLGame1.jpg" width=400>
+</p>
+
+<p align="center">
+  <img src="screenshots/TBLLGame2.jpg" width=400>
+</p>
 
 ---
 
