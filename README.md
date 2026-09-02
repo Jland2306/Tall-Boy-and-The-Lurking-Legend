@@ -65,7 +65,9 @@ To open the source in the Unity Editor:
 ## Team
 
 Jordan Landversicht
+
 Daniel Sible
+
 Nathaniel Klubek
 
 ## About This Project
